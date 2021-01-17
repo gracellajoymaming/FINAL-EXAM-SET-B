@@ -1,0 +1,18 @@
+
+  .mainPage 
+  {
+    background-color: #20b2aa;
+    
+  }
+  .mainPage h1
+  {
+  font-family: 'Hanalei Fill', cursive;
+  }
+  #title
+{
+  font-size: 100px;
+  margin-top: 1.5%;
+  margin-bottom: 0;
+  color: rgb(230, 212, 180);
+  }
+  
